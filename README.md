@@ -1,2 +1,8 @@
 # github-recitation-f25
-Five Guys has the best burgers!
+<<<<<<< HEAD
+Recitation Demo
+
+In-n-out has the best burgers!
+=======
+
+>>>>>>> main
